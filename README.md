@@ -1,70 +1,68 @@
-# AstroBurst
+# AstroBurst  
+**An Original Space Shooter Game**  
+**Version 1.0 – Initial Release**
 
-An Original Space Shooter Game
+---
 
-1. Welcome to AstroBurst
+## 1. Introduction
 
- A retro-inspired space shooter packed with laser action, devilish meteors, and funk-filled vibes.
+AstroBurst is a retro-inspired space shooter packed with laser action, intense meteor attacks, and a vibrant audio-visual environment. It draws from the essence of classic arcade shooters and reimagines them with modern tools and original design.
 
-2. What This Project Does
+## 2. Project Overview
 
-AstroBurst is a fast-paced arcade shooter where you blast devil meteors out of the sky with sharp lasers. Designed as a tribute to classic space shooters, it blends high-octane gameplay with vivid visuals and immersive sound.
+AstroBurst is a fast-paced arcade game where the player must eliminate meteors using precise laser attacks. Designed to evoke the nostalgia of old-school space shooters, the game combines vivid visuals, fast gameplay, and an energetic soundtrack.
 
-To make the game more thrilling, Brazilian Phonk genre music has been added to elevate the environment and keep your adrenaline pumping.
+The game features music from the Brazilian Phonk genre to enhance the experience and maintain an adrenaline-filled atmosphere.
 
-3. Why This Project Is Useful
+## 3. Purpose and Relevance
 
-A nostalgic experience for space shooter lovers
+- Offers a nostalgic experience for fans of classic arcade games  
+- Demonstrates practical implementation of **Python 3.13.3** in game development  
+- Developed using **pygame-ce** and **OpenCV**  
+- Polished using **Adobe After Effects** and **Adobe Illustrator** for visuals and animations
 
-A creative showcase of Python game development using pygame-ce and OpenCV
+## 4. How to Play
 
-A fun project with polished design made using Adobe After Effects and Illustrator
+### Download and Run
 
-4. How to Play
+1. Download the latest `.zip` file from the Releases section of this repository.  
+2. Extract the ZIP file to a folder of your choice.  
+3. Open the folder and double-click on `AstroBurst.exe` to launch the game.
 
-Download and Run
+**Note:** No installation is required. Just extract and play.
 
-Download the latest .zip file from the Releases section of this repository
+## 5. Contents of the ZIP File
 
-Extract the zip file to any folder
+- `AstroBurst.exe` – The main executable file  
+- `assets/` – Contains game assets including images, sounds, and effects  
+- Python source code file
 
-Inside the folder, double-click the AstroBurst.exe file to launch the game
+## 6. Bonus Challenge
 
-Note: No installation required. Just extract and play.
+Players are encouraged to reach a score of 2000 or higher in a single game session.  
+You can post a screenshot of your high score in the Issues or Discussions section of the repository.
 
-5. What's Inside the ZIP
+## 7. Collaboration and Suggestions
 
-AstroBurst.exe – The executable game file
+Feedback and collaboration are welcome. You can:
 
-assets/ – Game assets (images, sounds, effects)
+- Fork the repository to explore or build upon the code  
+- Report bugs or suggest enhancements using the Issues tab  
+- Submit changes or new features through Pull Requests
 
-Python source code files (optional, if included)
+## 8. Author
 
-6. Bonus Challenge
+**Shishir Bogati**  
+Aspiring Aerospace Engineer  
+Indie Game Developer  
+Passionate Guitarist  
+Motion Graphics Artist
 
-Think you’ve got skills?
-Try breaking a score of 2000 in a single game run.
-Post a screenshot in GitHub Issues or Discussions if you do.
+## 9. License
 
-7. Collaboration and Suggestions
+This project is released under the **MIT License**.  
+You are free to download, use, modify, and distribute this software.
 
-I'm open to feedback, ideas, and collaboration. Whether it's level design, sound tweaks, or bug reports, feel free to:
+## 10. Closing Note
 
-Fork the repository and explore the code
-
-Suggest improvements through Issues
-
-Submit new ideas through Pull Requests
-
-8. Author
-
-Shishir Bogati
-Aspiring aerospace engineer | Indie game developer | Passionate Guitarist| Motion Graphics Artist
-
-9. License
-
-This project is released under the MIT License.
-You are free to download, play, study, remix, and share.
-
-“Shoot. Dodge. Funk out. Break 2000. Welcome to AstroBurst.”
-
+**"Shoot. Dodge. Funk out. Break 2000. Welcome to AstroBurst."**
